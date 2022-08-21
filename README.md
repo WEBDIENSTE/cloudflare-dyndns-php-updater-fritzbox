@@ -28,5 +28,9 @@ https://butioc76uzgoihtrd5iougihpiguut.keineangabe.de/unterverzeichnis/weiteres-
  Dieses Script sollte gut versteckt werden, da es potentiell alle Zoneneinträge eines Accounts ändern kann.
  Ich werde noch eine angepasste Version veröffentlichen, bei der dies verhindert wird.
  Bis dahin gilt: Vorsicht walten lassen!
- 
- Nutzung auf eigene Gefahr! Eltern haften für Ihre Kinder! Usw.
+  
+ Nutzung auf eigene Gefahr! Eltern haften für Ihre Kinder! Usw...
+  
+ ### HINWEIS ###
+ Deaktiviere automatische Git-Pulls, da die update.php überschrieben wird.
+ Danach funktioniert das Script natürlich nicht mehr...

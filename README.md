@@ -8,16 +8,16 @@ Simple PHP script to privovide dyndns on cloudflares DNS platform.
 4. Eingabe der Variablen, wie gewünscht:
  
 Wenn nur IPv4 verwendet werden soll:
-URL: https://<deine-übelst-krasse-subdomain.de>.<deine-übelst-krasse-domain>.<deine-übelst-krasse-tld>/update.php?domain=<domain>&ipv4=<ipaddr>&user=<username>&pass=<pass>
+URL: https://<deine-übelst-krasse-subdomain.de>.<deine-übelst-krasse-domain>.<deine-übelst-krasse-tld>/update.php?domain=<domain>&ipv4=<ipaddr>&user=<username>&pass=<pass> 
 
 Wenn nur IPv6 verwendet werden soll:
-URL: https://<deine-übelst-krasse-subdomain.de>.<deine-übelst-krasse-domain>.<deine-übelst-krasse-tld>/update.php?domain=<domain>&ipv6=<ip6addr>&user=<username>&pass=<pass>
+URL: https://<deine-übelst-krasse-subdomain.de>.<deine-übelst-krasse-domain>.<deine-übelst-krasse-tld>/update.php?domain=<domain>&ipv6=<ip6addr>&user=<username>&pass=<pass> 
  
 Wenn IPv4 und IPv6 verwendet werden soll:
-URL: https://<deine-übelst-krasse-subdomain.de>.<deine-übelst-krasse-domain>.<deine-übelst-krasse-tld>/update.php?domain=<domain>&ipv4=<ipaddr>&ipv6=<ip6addr>&user=<username>&pass=<pass>
+URL: https://<deine-übelst-krasse-subdomain.de>.<deine-übelst-krasse-domain>.<deine-übelst-krasse-tld>/update.php?domain=<domain>&ipv4=<ipaddr>&ipv6=<ip6addr>&user=<username>&pass=<pass> 
  
 Beispiel:
-https://butioc76uzgoihtrd5iougihpiguut.keineangabe.de/unterverzeichnis/weiteres-unterverzeichnis/update.php?domain=<domain>&ipv4=<ipaddr>&user=<username>&pass=<pass>
+https://butioc76uzgoihtrd5iougihpiguut.keineangabe.de/unterverzeichnis/weiteres-unterverzeichnis/update.php?domain=<domain>&ipv4=<ipaddr>&user=<username>&pass=<pass> 
  
  
 ... Fertig. Easy, oder?

@@ -15,7 +15,7 @@ $ttl = 1;              // TTL in seconds (1 for auto, or a value greater than 12
 // Prüfe Login & Passwort
 if ($sAuth == 1) {
   if ($_REQUEST['user'] != $username || $_REQUEST['pass'] != $password) {
-    exit ("Wrong credentials!");
+    exit ("Nee... So geht das nicht! Die Zugangsdaten sollten schon korrekt sein.?");
   }
 }
 
